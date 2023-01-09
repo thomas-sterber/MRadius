@@ -29,8 +29,10 @@
 
 ## How it works
 
-            **PC/Laptop**         -----ssh----->  **Raspberry Pi**   <----Radius Request------ **Meraki Device** 
-       (MRadius Management)
+           ---------------                       ----------------     <----Radius Request------      -----------------
+          |   PC/Laptop   |     -----ssh----->  |  Raspberry Pi  |                                  |  Meraki Device  |
+           –––––––––––––––                       ––––––––––––––––     -----Radius Reply  ----->      –––––––––––––––––
+        (MRadius Management)                      MRadius
            (install)
            (setup)
            (control)
