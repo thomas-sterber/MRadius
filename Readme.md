@@ -27,6 +27,17 @@
       this will go step by step through the Raspi setup 
       you will need to run the MRadius-Tool
 
+## How it works
+
+            **PC/Laptop**         -----ssh----->  **Raspberry Pi**   <----Radius Request------ **Meraki Device** 
+       (MRadius Management)
+           (install)
+           (setup)
+           (control)
+    Formatierung    Markdown-Syntax Beispiel
+**Fetter Text**
+*Kursiver Text*
+
 ## Using MRadius
 
 unzip MRadius package
