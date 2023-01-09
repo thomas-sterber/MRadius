@@ -1,4 +1,10 @@
 # MRadius-Manager
+
+MRadius helps you quickly setting up an Radius Service 
+for Meraki POC environments as well as
+getting an cli based menue to manage it.
+
+
 (written by thomas.sterber@meraki.net January 2023)
 
 ## What it is
