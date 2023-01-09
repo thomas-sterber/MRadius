@@ -15,9 +15,9 @@
 
 ## Using MRadius
 
-unpack the M-Radius package
+unzip M-Radius package
     
-      tar xvfz M-Radius-Manager.tar.gz
+      unzip MRadius-Manager.zip
       
 use the M-Radius-Manager
 
