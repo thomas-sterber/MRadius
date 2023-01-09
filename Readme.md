@@ -16,7 +16,7 @@ getting an cli based menue to manage it.
            ---------------                       ----------------     <----Radius Request------      -----------------
           |   PC/Laptop   |     -----ssh----->  |  Raspberry Pi  |                                  |  Meraki Device  |
            –––––––––––––––                       ––––––––––––––––     -----Radius Reply  ----->      –––––––––––––––––
-        (MRadius Management)                      MRadius
+        (MRadius-Manager)                         MRadius
            (install)
            (setup)
            (control)
@@ -62,7 +62,7 @@ run MRadius-Manager
        ./meraki-radius-manager.py
 
 
-use the M-Radius-Manager
+use the MRadius-Manager to install and manage the MRadius
 
       please see the file 02_M-Radius-Manager_101.pdf
 
