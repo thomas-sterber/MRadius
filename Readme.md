@@ -34,9 +34,7 @@
            (install)
            (setup)
            (control)
-    Formatierung    Markdown-Syntax Beispiel
-**Fetter Text**
-*Kursiver Text*
+
 
 ## Using MRadius
 
