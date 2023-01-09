@@ -1,4 +1,4 @@
-# MRadius-Manager
+# MRadius and MRadius-Manager
 
 MRadius helps you quickly setting up an Radius Service 
 for Meraki POC environments as well as
