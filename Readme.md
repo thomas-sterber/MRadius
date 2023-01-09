@@ -15,10 +15,18 @@
 
 ## Using MRadius
 
-unzip M-Radius package
+unzip MRadius package
     
       unzip MRadius-Manager.zip
       
+
+run MRadius-Manager
+
+       cd /M-Radius-Manager
+       chmod +x meraki-radius-manager.py
+       ./meraki-radius-manager.py
+
+
 use the M-Radius-Manager
 
       please see the file 02_M-Radius-Manager_101.pdf
