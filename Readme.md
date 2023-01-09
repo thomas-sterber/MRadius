@@ -11,6 +11,18 @@ getting an cli based menue to manage it.
       - Freeradius for Meraki POC environments
       - a CLI menue based tool 
 
+## How it works
+
+           ---------------                       ----------------     <----Radius Request------      -----------------
+          |   PC/Laptop   |     -----ssh----->  |  Raspberry Pi  |                                  |  Meraki Device  |
+           –––––––––––––––                       ––––––––––––––––     -----Radius Reply  ----->      –––––––––––––––––
+        (MRadius Management)                      MRadius
+           (install)
+           (setup)
+           (control)
+
+
+
 ## What is supported
 
       Auth Technologies
@@ -34,16 +46,6 @@ getting an cli based menue to manage it.
       please have a look at the file "01_Raspberry_Setup.pdf"
       this will go step by step through the Raspi setup 
       you will need to run the MRadius-Tool
-
-## How it works
-
-           ---------------                       ----------------     <----Radius Request------      -----------------
-          |   PC/Laptop   |     -----ssh----->  |  Raspberry Pi  |                                  |  Meraki Device  |
-           –––––––––––––––                       ––––––––––––––––     -----Radius Reply  ----->      –––––––––––––––––
-        (MRadius Management)                      MRadius
-           (install)
-           (setup)
-           (control)
 
 
 ## Using MRadius
