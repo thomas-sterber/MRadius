@@ -1,4 +1,6 @@
 # MRadius-Manager
+(written by thomas.sterber@meraki.net January 2023)
+
 ## What it is
       - Freeradius for Meraki POC environments
       - a CLI menue based tool 
