@@ -3,6 +3,20 @@
       - Freeradius for Meraki POC environments
       - a CLI menue based tool 
 
+## What is supported
+
+      Auth Technologies
+      - MAC Authentication
+      - 802.1X
+      - iPSK
+      
+      dynamic assignments
+      - vlan id
+      - vlan name
+      - Group Policy
+      - Group Policy ACL
+      - Adaptive Polcy / SGT's
+      
 ## Requirements
       - PC / Laptop with Python 3
       - Raspberry Pi
