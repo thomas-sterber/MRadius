@@ -17,7 +17,7 @@
 
 unzip MRadius package
     
-      unzip MRadius-Manager.zip
+      unzip M-Radius-Manager.zip
       
 
 run MRadius-Manager
