@@ -1,6 +1,7 @@
 # MRadius and MRadius-Manager
 
-MRadius helps you quickly setting up an Radius Service 
+MRadius helps you quickly configure a 
+Freeradius running on a Raspberry 
 for Meraki POC environments as well as
 getting an cli based menue to manage it.
 
